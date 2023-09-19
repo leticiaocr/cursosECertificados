@@ -18,6 +18,7 @@
 | DIO | **Primeiros passos na biblioteca React** | <a href="https://www.dio.me/certificate/B8BCC3B5/share">Certificado</a> |               |
 | DIO | **Configuração de Ambiente React** | <a href="https://www.dio.me/certificate/8D64233F/share">Certificado</a> |               |
 | DIO | **Conceitos Fundamentais para React** | <a href="https://www.dio.me/certificate/4F54CABD/share">Certificado</a> |               |
+| DIO | **Criando um Projeto React do Zero** | <a href="https://www.dio.me/certificate/81FBD87E/share">Certificado</a> |               |
 
 
 ## UX, UI e Design
