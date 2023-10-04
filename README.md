@@ -21,6 +21,8 @@
 | DIO | **Criando um Projeto React do Zero** | <a href="https://www.dio.me/certificate/81FBD87E/share">Certificado</a> |               |
 | DIO | **Convenções e Qualidade de Código React** | <a href="https://www.dio.me/certificate/ABB2F683/share">Certificado</a> |               |
 | DIO | **Estilização com Styled-Components** | <a href="https://www.dio.me/certificate/E1114082/share">Certificado</a> |               |
+| DIO | **Fundamentos do CSS** | <a href="https://www.dio.me/certificate/623B53D4/share">Certificado</a> |               |
+
 
 
 ## UX, UI e Design
