@@ -22,6 +22,9 @@
 | DIO | **Convenções e Qualidade de Código React** | <a href="https://www.dio.me/certificate/ABB2F683/share">Certificado</a> |               |
 | DIO | **Estilização com Styled-Components** | <a href="https://www.dio.me/certificate/E1114082/share">Certificado</a> |               |
 | DIO | **Fundamentos do CSS** | <a href="https://www.dio.me/certificate/623B53D4/share">Certificado</a> |               |
+| DIO | **Trabalhando Com Hooks Básicos** | <a href="https://www.dio.me/certificate/35B27664/share">Certificado</a> |               |
+| DIO | **Trabalhando Com Formulários no React** | <a href="https://www.dio.me/certificate/EF085832/share">Certificado</a> |               |
+| DIO | **Fundamentos do TypeScript** | <a href="https://www.dio.me/certificate/3DB8DD22/share">Certificado</a> |               |
 
 
 
@@ -45,6 +48,8 @@
 | Órgão emissor   | Curso                                        | Certificado de conclusão                                                                                                   |
 | --------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 |TopInvest Educação financeira | **Excel do Básico ao Avançado** | <a href="https://drive.google.com/file/d/1vWHY0USlNyoyFqTJhROAfguT1qVI2W34/view?usp=sharing">Certificado</a> |
+| DIO | **Fundamentos de Qualidade de Software** | <a href="https://www.dio.me/certificate/203C3AD8/share">Certificado</a> |
+| DIO | **Introdução a Testes de Software** | <a href="https://www.dio.me/certificate/8472C35C/share">Certificado</a> |
 
 
 
