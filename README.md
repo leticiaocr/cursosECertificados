@@ -50,6 +50,7 @@
 |TopInvest Educação financeira | **Excel do Básico ao Avançado** | <a href="https://drive.google.com/file/d/1vWHY0USlNyoyFqTJhROAfguT1qVI2W34/view?usp=sharing">Certificado</a> |
 | DIO | **Fundamentos de Qualidade de Software** | <a href="https://www.dio.me/certificate/203C3AD8/share">Certificado</a> |
 | DIO | **Introdução a Testes de Software** | <a href="https://www.dio.me/certificate/8472C35C/share">Certificado</a> |
+| DIO | **Introdução ao Git e ao GitHub** | <a href="https://www.dio.me/certificate/4F9DA59D/share">Certificado</a> |
 
 
 
